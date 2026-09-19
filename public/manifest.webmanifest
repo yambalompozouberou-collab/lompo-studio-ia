@@ -1,0 +1,16 @@
+{
+  "name": "LOMPO STUDIO IA",
+  "short_name": "LOMPO IA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#020914",
+  "theme_color": "#030b16",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
